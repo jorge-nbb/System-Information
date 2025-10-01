@@ -119,6 +119,9 @@ cd $env:USERPROFILE\Desktop
   <img src="https://github.com/jorge-nbb/System-Information/blob/main/images/p3.png" alt="p3" width="999"/>
    <hr>
   <img src="https://github.com/jorge-nbb/System-Information/blob/main/images/p4.png" alt="p4" width="999"/>
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</pre>
 </td>
   </tr>
 </table>
