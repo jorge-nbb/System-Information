@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jorge-nbb/images/raw/main/PowerShell_5.0_icon.png" alt="powershell logo" width="228"/>
+  <img src="https://github.com/jorge-nbb/System-Information/blob/main/images/PowerShell_5.0_icon.png" alt="powershell logo" width="228"/>
 </p>
 
 <h1 align="center">System Information Script</h1>
@@ -18,7 +18,7 @@
 
 - **Windows 10 / 11 (Client-PC)**
 - **PowerShell 5.1+** (or PowerShell 7)
-- **Notepad** (to create/edit script)
+- **Notepad or IDE** (to create/edit script)
 
 ---
 
@@ -37,7 +37,7 @@
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images-sytem-information/blob/main/p1.png" alt="p1" width="350"/>
+  <img src="https://github.com/jorge-nbb/System-Information/blob/main/images/p1.png" alt="p1" width="350"/>
 </td>
   </tr>
 </table>
@@ -116,9 +116,9 @@ cd $env:USERPROFILE\Desktop
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images-sytem-information/blob/main/p3.png" alt="p3" width="500"/>
+  <img src="https://github.com/jorge-nbb/System-Information/blob/main/images/p3.png" alt="p3" width="999"/>
    <hr>
-  <img src="https://github.com/jorge-nbb/images-sytem-information/blob/main/p4.png" alt="p4" width="500"/>
+  <img src="https://github.com/jorge-nbb/System-Information/blob/main/images/p4.png" alt="p4" width="999"/>
 </td>
   </tr>
 </table>
@@ -140,7 +140,7 @@ cd $env:USERPROFILE\Desktop
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images-sytem-information/blob/main/p5.png" alt="p5" width="350"/>
+  <img src="https://github.com/jorge-nbb/System-Information/blob/main/images/p5.png" alt="p5" width="350"/>
 </td>
   </tr>
 </table>
